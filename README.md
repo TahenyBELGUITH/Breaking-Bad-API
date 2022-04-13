@@ -1,10 +1,10 @@
-# Frontend-Mentor---QR-code-component
+# BREAKING BAD API
 
 > This is my first attempt of using API
 
 # Table of contents
 
-- [Frontend-Mentor---QR-code-component](#frontend-mentor---qr-code-component)
+- [](#)
 - [Table of contents](#table-of-contents)
 - [Overview](#overview)
   - [Built with](#built-with)
