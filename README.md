@@ -29,7 +29,7 @@
 
 - Semantic HTML5 markup
 - BootStrap
-- 
+  
 ## Live demo( IF AVAILABLE 😊 )
 
 [Live Demo](https://tahenybelguith.github.io/Breaking-Bad-API/) 
